@@ -1,0 +1,14 @@
+Objective of the exercise: Create a List of Unique Strings
+    - User Requirements:
+        - New unique strings are added to the end of the list
+            - If a new value is added successfully, return true
+            - If a value cannot be added because it is duplicated, return false
+        - You can ask the list if it contains a given string
+            - Return true or false
+        - You can delete an element from the list
+            - If an element was found and successfully deleted, return true
+            - Otherwise return false
+        - You can ask the list to return an array of all its values
+
+Restriction:
+    - No existing concrete Collection may be used (HashMap, ArrrayList, HashSet, etc)
